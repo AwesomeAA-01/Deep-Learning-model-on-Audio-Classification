@@ -6,5 +6,5 @@ Introducing our groundbreaking deep learning model that has achieved remarkable 
 
 # Data
 The dataset contains 10 Audio files from 10 people. Each file is 1 min in length which is broken down into 50 seconds for training and 10 seconds for testing the model.
+![image](https://github.com/AwesomeAA-01/HarmoniNet/assets/80022104/cdc3aea9-da6a-4d43-92c3-8b3371d5d497)
 
-# Results
